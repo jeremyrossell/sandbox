@@ -27,4 +27,4 @@ fn main() {
 
 // I've learned that:
 // - Rust is an expression-based language.
-// - Naturally comparisons evaluate to something, therefore they are expressions, so we can skip verbose and redundant code.
+// - Naturally, comparisons evaluate to something, therefore they are expressions, so we can skip verbose and redundant code.
